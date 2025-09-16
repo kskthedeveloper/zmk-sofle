@@ -15,7 +15,7 @@ layers:
   - {t: '0', s: )}
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '''', s: '"'}
-  - Z
+  - Q
   - W
   - E
   - R
